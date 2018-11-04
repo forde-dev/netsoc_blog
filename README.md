@@ -1,6 +1,6 @@
 # netsoc_blog
 
-a new blog website for netsoc hopefully
+a new blog website for netsoc made with Hugo
 
 ### Heres the current progress
 
