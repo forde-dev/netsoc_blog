@@ -48,15 +48,15 @@ paginate        = 6
 
 [[menu.main]]
   name = "Tutorials"
-  url = "/tutorials/"
+  url = "/tags/tutorials/"
   weight = 100
 
 [[menu.main]]
   name = "Dev Projects"
-  url = "/dev/"
+  url = "/tags/dev/"
   weight = 99
 
 [[menu.main]]
   name = "Wiki"
-  url = "https://netsoc.co/"
+  url = "https://bigbertha.netsoc.co/wiki/index.php/Main_Page"
   weight = 95
