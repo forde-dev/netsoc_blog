@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on </title>
+    <link>/tags/dev/</link>
+    <description>Recent content in Dev on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Dec 2018 15:43:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Netsoc Admin Part 1</title>
+      <link>/building-netsoc-admin-part-1/</link>
+      <pubDate>Sat, 01 Dec 2018 15:43:59 +0000</pubDate>
+      
+      <guid>/building-netsoc-admin-part-1/</guid>
+      <description>Building Netsoc Admin (#1) – Development Tools Introduction Last September we (UCC Netsoc) installed two servers and dedicated one of them specifically to servicing our members and their applications. It allows people to SSH in and run PHP, python and JS-based apps off each user’s subdomain. We wanted people to be able to manage their own info, databases and could access automated backups. After a month of looking at web panels and various solutions, it was apparent that what we wanted didn’t exist in a pre-built package unfortunately.</description>
+    </item>
+    
+  </channel>
+</rss>

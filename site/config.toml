@@ -1,0 +1,62 @@
+
+baseurl         = "/"
+theme           = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Netsoc Dev Blog"
+  subtitle    = "UCC Networking and Technology Society"
+  copyright   = "© 2018 UCC Networking Society. All rights reserved. Theme is Casper, Website Created by Michael Forde"
+
+  cover       = "img/background.jpg"
+  description = "UCC Netsoc Dev Blog"
+  metaDescription = "UCC Netsoc Dev Blog"
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "uccnetsoc"
+  fbName = "NetsocUCC"
+  githubName = "UCCNetworkingSociety"
+
+  logo = "img/netsoc.png"
+  orgName = "UCCNetsoc"
+  orgWebsite = "https://www.netsoc.co/"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Netsoc"
+  authorAvatar = "netsoc_black.jpg"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://www.netsoc.co/"
+  authorDescription = "UCC Networking and Technology Society"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tags/tutorials/"
+  weight = 100
+
+[[menu.main]]
+  name = "Dev Projects"
+  url = "/tags/dev/"
+  weight = 99
+
+[[menu.main]]
+  name = "Wiki"
+  url = "https://bigbertha.netsoc.co/wiki/index.php/Main_Page"
+  weight = 95

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on </title>
+    <link>/tags/tutorials/</link>
+    <description>Recent content in Tutorials on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Nov 2018 16:52:29 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a Virtualised Development Environment</title>
+      <link>/creating-a-virtualised-development-environment/</link>
+      <pubDate>Fri, 30 Nov 2018 16:52:29 +0000</pubDate>
+      
+      <guid>/creating-a-virtualised-development-environment/</guid>
+      <description>Creating A Virtualised Development Environment Vagrant and VirtualBox For our development environment, we’re going to want a way to easily simulate an ubuntu/linux server as well as an easy way to interact with it when we need to make changes. That’s where Vagrant and VirtualBox come in 😉
+VirtualBox VirtualBox is a cross-platform virtualization application. It allows us to simulate having an operating system without having to use a physical computer for it.</description>
+    </item>
+    
+    <item>
+      <title>IRC - Connecting to Intersocs</title>
+      <link>/irc-connecting-to-intersocs/</link>
+      <pubDate>Fri, 30 Nov 2018 16:49:50 +0000</pubDate>
+      
+      <guid>/irc-connecting-to-intersocs/</guid>
+      <description>IRC – Connecting To #Intersocs User Accounts If you do not already have a user account for UCC Netsoc’s services, sign up at https://admin.netsoc.co/register
+You will need a user account before continuing with this document.
+Quickstart If this is your first time, please read the entirety of the document as we do not provide support as of yet.
+ SSH into Leela with your user credentials: ssh USERNAME@leela.netsoc.co Access your Weechat IRC screen: irc /connect netsoc.</description>
+    </item>
+    
+  </channel>
+</rss>
